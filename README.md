@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GustavoHonori
-- 👀 I’m interested in  me tornar um  programador
+- 👀
 - 🌱 I’m currently learning  HTML5 e CSS3
 
 - 💞️ I’m looking to collaborate on ...
